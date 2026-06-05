@@ -1,0 +1,13 @@
+# Srodowiska wirtualne
+.venv/
+venv/
+env/
+
+# pamiec podreczna
+__pycache__/
+*.pyc
+*.pyo
+
+# Baza danych
+*.db
+database.db
